@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on hardware design and hardware verification
+- 🌱 I’m currently learning CPU design, SystemVerilog and Rust
+
 <!--
 **pcineverdies/pcineverdies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
