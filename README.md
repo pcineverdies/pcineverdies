@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on hardware design and hardware verification
-- 🌱 I’m currently learning CPU design, SystemVerilog, UVM and Rust
+- 🌱 I’m currently learning CPU design, SystemVerilog and UVM
+- 🏎️ I'm involved in the KTH Formula Student team
+
 
 <!--
 **pcineverdies/pcineverdies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
