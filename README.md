@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on hardware design and hardware verification
-- 🌱 I’m currently learning CPU design, SystemVerilog and UVM
-- 🏎️ I'm involved in the KTH Formula Student team
+- 🔭 Recently I've been diving into compiler-related topics!
+- 👯 I'm working on my Master Thesis at EPFL (LAP).
+- 🌱 My long-term passion is computer architecture and CPU design.
+- ✨ Proud vim user!
+
+:wq 
 
 
 <!--
