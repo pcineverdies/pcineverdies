@@ -1,24 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Recently I've been diving into compiler-related topics!
-- 👯 I'm working on my Master Thesis at EPFL (LAP).
-- 🌱 My long-term passion is computer architecture and CPU design.
-- ✨ Proud vim user!
+Reach me out in English, French or Italian!
 
-:wq 
+I am interested in Computer Architectures, Compilers, CPUs and everything that is low-level oriented.
+Down here you can find my compiler and my CBG emulator 👇. Soon to come: a FPU and an OoO CPU! 💝
 
-
-<!--
-**pcineverdies/pcineverdies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Proud `hjkl` user, but my fav keybinding is `ci(`.
